@@ -262,7 +262,6 @@ function resetLevel() {
         }
         if(Math.random() > turns)
             break;
-        d = randomDirection();
     }
     aimX = currentX;
     aimY = currentY;

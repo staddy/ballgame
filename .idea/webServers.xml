@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="6f762a06-8198-4183-849a-cab3a6424773" name="staddy.ru" url="http://ftp.byethost18.com">
+        <fileTransfer host="ftp.byethost18.com" port="21" rootFolder="/htdocs" username="b18_17139777">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
